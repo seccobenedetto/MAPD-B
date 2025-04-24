@@ -132,3 +132,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+
+# other things added by me (benedetto):
+/mysql/dbs/IMDb_pruned.sql
